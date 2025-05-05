@@ -17658,7 +17658,8 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:0 tvg-id="MNCTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/mnctv.png" group-title="GM TV",MNCTV (V+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-http://vo01.mohdtv.com:8880/live/voby0326/92496642/60374.m3u8
+https://sindikasi.inews.id/embed/video/YWdlbnQ9ZGVza3RvcCZ1cmw9aHR0cHMlM0ElMkYlMkZlbWJlZC5yY3RpcGx1cy5jb20lMkZsaXZlJTJGcmN0aSUyRmluZXdzaWQmaGVpZ2h0PTEwMCUyNSZ3aWR0aD0xMDAlMjU=
+
 
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_355.jpeg" group-title="GM TV",NHK World Japan
